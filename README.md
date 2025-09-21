@@ -16,8 +16,6 @@ print("Hello begginers")
 print("My name is Hafsa Muskan")
 print("Hard work beats talent when talent doesn't work hard.")
 
-
-
 ## Day 2 - Variables & Data Types
 
 - Learned about variables in Python.
